@@ -2,6 +2,7 @@
   "name": "faseeh-portfolio",
   "version": "1.0.0",
   "description": "Faseeh Khan's Game Development Portfolio",
+  "homepage": "https://faseehkhan-dev.github.io/portfolio",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",

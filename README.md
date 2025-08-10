@@ -36,6 +36,12 @@ I'm Faseeh Khan, a passionate game developer who focuses on creating immersive, 
 3. Start development server: `npm start`
 4. Build for production: `npm run build`
 
+## Live Demo
+
+🌐 **Live Portfolio**: [https://faseehkhan-dev.github.io/portfolio](https://faseehkhan-dev.github.io/portfolio)
+
+The portfolio is automatically deployed to GitHub Pages whenever changes are pushed to the main branch.
+
 ## License
 
 This project is open source and available under the MIT License.
